@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Ammar Ahmad\Desktop\SDA Project\SDA Project\QBMS.h(388,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ammar Ahmad\Desktop\SDA Project\SDA Project\QBMS.h(288): warning C4715: 'QBMS::isTokenUnique': not all control paths return a value
+  SDA Project.vcxproj -> C:\Users\Ammar Ahmad\Desktop\SDA Project\Debug\SDA Project.exe

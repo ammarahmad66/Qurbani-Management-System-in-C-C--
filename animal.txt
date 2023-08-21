@@ -1,0 +1,8 @@
+2 1 14000 Available Goat 
+5 0 13000 Reserved Goat 
+8 1 14500 Available Goat 
+1 7 75000 Available Cow 
+3 4 80000 Available Cow 
+6 1 90000 Aailable Cow 
+7 4 95000 Available Cow 
+4 7 200000 Available Cow 
